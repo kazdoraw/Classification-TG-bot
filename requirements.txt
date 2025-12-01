@@ -1,0 +1,28 @@
+# Core ML/DL
+torch
+torchvision
+numpy
+opencv-python
+Pillow
+
+# Metrics and visualization
+matplotlib
+scikit-learn
+seaborn
+
+# Telegram bot
+aiogram
+aiofiles
+python-dotenv
+
+# YOLO for detection (optional, if using ultralytics)
+ultralytics
+
+# Data processing
+pandas
+tqdm
+
+# Utilities
+pyyaml
+# Dataset download
+kaggle
